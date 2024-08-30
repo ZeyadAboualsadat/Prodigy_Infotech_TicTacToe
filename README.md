@@ -58,8 +58,10 @@ Ensure you have Flutter installed on your machine. If not, follow the [Flutter i
 - **State Management:** Understand the state management approach used to handle game states and player interactions.
 - **UI/UX Design:** Review the design choices made to ensure an engaging and user-friendly experience.
 
-## Screenshot
-![image](https://github.com/user-attachments/assets/bda4f46b-7502-4a4e-b8fb-4c565b8d076d)
+## Screenshots
+![image](https://github.com/user-attachments/assets/bda4f46b-7502-4a4e-b8fb-4c565b8d076d)    ![image](https://github.com/user-attachments/assets/1190c553-55f2-4757-886f-9e6b4c7006e1)    ![image](https://github.com/user-attachments/assets/7bcbdfca-c23f-4d30-a6ec-03a6d8ed442a)
+
+
 
 ## Demo Video
 https://drive.google.com/file/d/1G1OPE0PR6UTAReRYt8ht2mKpRS0urHN5/view?usp=drive_link
